@@ -2,9 +2,8 @@
 
 simply dump and load lisp objects without configuration
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/kaiserprogrammer/marshal.git   |
-| commit  | 008ba4d  |
-| systems | marshal |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/kaiserprogrammer/marshal.git |
+| commit  | 008ba4d                                             |
+| systems | (fmarshal)                                          |
+|---------+-----------------------------------------------------|
